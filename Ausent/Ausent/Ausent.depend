@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1652799046 source:c:\users\usuario1\desktop\nicolas\ausent\ausent\main.cpp
+	<iostream>
+	"clase.h"
+
+1652969762 c:\users\usuario1\desktop\nicolas\ausent\ausent\clase.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+
